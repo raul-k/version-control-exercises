@@ -1,9 +1,3 @@
 hello world ;)
-<<<<<<< HEAD
 
-blahblakdhdfhuwhfuwfhiw
-=======
-i need to add a few lines
-so i'm doing that like this!
-beautiful................!!
->>>>>>> 008f1a93704dafcdfe332d74e5bfad13ec175397
+blahblakdhdfhuwhfuwfhiwrrrrrrrrr
